@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @glennvill
 - 👀 I’m interested in NBA, Dota 2, Music
-- 🌱 I’m currently learning Java, Frontend
+- 🌱 Backend Developer looking to expand my skills
 - 💞️ I’m looking to collaborate on any project I can contribute and learn
 - 📫 How to reach me: feel free to contact me here
 
